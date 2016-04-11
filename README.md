@@ -10,3 +10,6 @@ Unity UGUI tooltip. Package is part of [ifup][ifups] collection.
 - allows custom message
 - tooltip manager singleton 
 - tooltip manager prefab
+- added nicer outline borrowed from [unity-ui-extensions][uiext]
+
+[uiext]: https://bitbucket.org/ddreaper/unity-ui-extensions
